@@ -3,11 +3,11 @@
 // Define defaults for each variable.
 
 @font-face {
-font-family: "Futura Book";
-src: url("/futura-book.ttf");
+font-family: "Futura Heavy";
+src: url("/futura-heavy.ttf");
 }
 
-$base-font-family: "Futura Book", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: "Futura Heavy", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -16,7 +16,7 @@ $spacing-unit:     30px !default;
 
 $text-color:       #000 !default;
 $background-color: #fff !default;
-$brand-color:      #ff0000 !default;
+$brand-color:      #B22222 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
